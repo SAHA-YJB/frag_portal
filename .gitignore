@@ -1,0 +1,29 @@
+node_modules/
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE/Editor
+.vscode/
+.idea/
+*.iml
+
+# Build
+build/
+dist/
+*.jar
+
+# Logs
+logs/
+*.log
+
+# Gradle
+.gradle/
+build/
+.gradle-cache/
+
+# Maven
+target/
